@@ -7,8 +7,8 @@ P.S. If there is a standard (popular) changelog format, please let me know.
 
 - **0.4.0 : 2017.12.13**
     - **Features**
-    - First Wallace Lab website!
-    - adapted from Drummond lab website, http://drummondlab.org
+    - First Wallace Lab website! https://ewallace.github.io
+    - adapted from Drummond lab website, https://drummondlab.github.io
 
 - **0.3.0 : 2013.02.24**
     - **Features**

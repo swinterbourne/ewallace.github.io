@@ -29,7 +29,7 @@
 
 Issues are tracked at GitHub [github-issues].
 
-[github-issues]: https://github.com/drummondlab/drummondlab.github.io/issues
+[github-issues]: https://github.com/ewallace/ewallace.github.io/issues
 
 * Many style choices need to be updated.
 * Bottom bar
