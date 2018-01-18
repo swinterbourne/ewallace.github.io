@@ -8,7 +8,7 @@ email: edward.wallace@ed.ac.uk
 twitter: 
 github: 
 scholar: 7FLIJBAAAAAJ
-image: /assets/images/team/edward-wallace.png
+image: /assets/images/team/edward-wallace-cartoon-2018.jpg
 alum: false
 ---
 
