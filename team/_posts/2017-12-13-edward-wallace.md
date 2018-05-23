@@ -5,7 +5,7 @@ position: Group Leader
 nickname: Edward
 handle: ew
 email: edward.wallace@ed.ac.uk
-twitter: @ewjwallace
+twitter: ewjwallace
 github: ewallace
 ORCID: 0000-0001-8025-6361
 scholar: 7FLIJBAAAAAJ
