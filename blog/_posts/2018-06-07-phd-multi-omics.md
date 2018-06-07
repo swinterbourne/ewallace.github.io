@@ -68,3 +68,7 @@ Rob van Nues, Gabriele Schweikert, Erica de Leau, Alina Selega, Andrew Langford,
 https://doi.org/10.1038/s41467-017-00025-5
 - *RNA-protein binding measurements in a stress timecourse, statistical modeling.* 
 
+Modeling and analysis of RNA-seq data: a review from a statistical perspective.
+Wei Vivian Li, Jingyi Jessica Li.
+https://arxiv.org/abs/1804.06050
+- *Review of statistics of RNA-seq*
