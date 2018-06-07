@@ -15,9 +15,10 @@ alum: false
 
 Dr. Rosey Bayne is Lab Manager and Postdoctoral Research Associate in the Wallace lab. She has decades of lab experience, including on reproductive health and germline development at Edinburgh's [MRC CRH].
 
-Rosey did her PhD in Molecular Parasitology at the Institute of Genetics at the University of Glasgow, and has a M.Sc. in Information Systems Development from Heriot-Watt's School of Computing.
+Rosey did her PhD in Molecular Parasitology at the Institute of Genetics at the University of Glasgow, and has a M.Sc. in Information Systems Development from Edinburgh Napier University's [School of Computing](Napier Comp).
 
 [MRC CRH]: https://www.ed.ac.uk/centre-reproductive-health
+[Napier Comp]: https://www.napier.ac.uk/about-us/our-schools/school-of-computing
 
  
 

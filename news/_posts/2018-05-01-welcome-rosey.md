@@ -10,4 +10,4 @@ tags: [vacancy, postdoc]
 
 Welcome new lab manager / post-doctoral research associate [Dr. Rosey Bayne](ralb)!
 
-Rosey is an unusual polymath of a scientist, with decades of lab experience with diverse organisms, dozens of papers, and a MSc. from Heriot-Watt's School of Computing. We're very excited to have her on the team!
+Rosey is an unusual polymath of a scientist, with decades of lab experience with diverse organisms, dozens of papers, and a MSc. from Edinburgh Napier University's School of Computing. We're very excited to have her on the team!
