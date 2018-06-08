@@ -71,4 +71,4 @@ https://doi.org/10.1038/s41467-017-00025-5
 Modeling and analysis of RNA-seq data: a review from a statistical perspective.
 Wei Vivian Li, Jingyi Jessica Li.
 https://arxiv.org/abs/1804.06050
-- *Review of statistics of RNA-seq*
+- *Review of statistics of RNA-seq.*

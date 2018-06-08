@@ -6,8 +6,8 @@ nickname: Rosey
 handle: ralb
 email: r.bayne@ed.ac.uk
 twitter: 
-github: 
-ORCID: 
+github: RoseyBayne
+ORCID: 0000-0001-5820-6050
 scholar: 
 image: /assets/images/team/rosey-bayne-2018.jpg
 alum: false
