@@ -17,6 +17,8 @@ Dr. Rosey Bayne is Lab Manager and Postdoctoral Research Associate in the Wallac
 
 Rosey did her PhD in Molecular Parasitology at the Institute of Genetics at the University of Glasgow, and has a M.Sc. in Information Systems Development from Edinburgh Napier University's [School of Computing](Napier Comp).
 
+Rosey is funded via the lab's Sir Henry Dale Fellowship grant from the [Wellcome Trust](https://wellcome.ac.uk/).
+
 [MRC CRH]: https://www.ed.ac.uk/centre-reproductive-health
 [Napier Comp]: https://www.napier.ac.uk/about-us/our-schools/school-of-computing
 
