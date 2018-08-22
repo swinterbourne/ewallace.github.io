@@ -9,7 +9,7 @@ twitter:
 github: RoseyBayne
 ORCID: 0000-0001-5820-6050
 scholar: 
-image: /assets/images/team/rosey-bayne-2018.jpg
+image: /assets/images/team/rosey-bayne-2018-welcomeday.jpg
 alum: false
 ---
 
