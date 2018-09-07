@@ -9,7 +9,7 @@ twitter: LauraTuck89
 github: 
 ORCID: 
 scholar: 
-image: /assets/images/team/default-member.png
+image: /assets/images/team/laura-tuck-2018.jpg
 alum: false
 ---
 
