@@ -7,11 +7,16 @@ navorder: 1
 ---
 {% include JB/setup %}
 <div class="bigspacer"></div>
-<div class="construction">
-  <hr/>
-  We are working on this page. Stay tuned.
-  <hr/>
+
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+			{{ homepage.content }}
+		</div>
+	</div>				
 </div>
+
 {% for project in site.categories.projects %}
 <div class='row'>
   <!--
