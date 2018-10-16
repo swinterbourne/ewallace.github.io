@@ -5,10 +5,9 @@
 
 ### TODOS
 
-- Move research description from main to "research" page
-- Add PhD projects for 2019 intake
 - See links (funders/collaborators) from home page, not just "About"
 - Add funder logos on main page
+- Make protocols point to the github protocols repository
 
 Also see Issues on [the site](https://github.com/ewallace/wallacelabrna.github.io).
 
