@@ -1,5 +1,7 @@
 # The Wallace Lab main website
 
+This repository encodes the [lab website](https://ewallace.github.io/) with github pages / jekyll.
+
 ##
 
 
@@ -9,7 +11,7 @@
 - Add funder logos on main page
 - Make protocols point to the github protocols repository
 
-Also see Issues on [the site](https://github.com/ewallace/ewallace.github.io).
+Also see Issues on [the github page](https://github.com/ewallace/ewallace.github.io).
 
 ## How to add content
 
