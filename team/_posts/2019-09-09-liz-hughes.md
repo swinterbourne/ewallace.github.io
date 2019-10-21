@@ -5,7 +5,7 @@ position: Daphne Jackson Fellow & PDRA
 nickname: LizHughes
 handle: 
 email: ehughes@ed.ac.uk
-twitter: @LizHughes21
+twitter: LizHughes21
 github: elizhughes
 ORCID: 
 scholar: 
