@@ -13,6 +13,6 @@ image: /assets/images/team/ania-kurowska.jpg
 alum: false
 ---
 
-Ania is doing her undergraduate project in the lab in 2020
+Ania is doing her BSc Biotechnology honours project in the lab in 2020.
 
 
