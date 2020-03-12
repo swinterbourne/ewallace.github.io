@@ -63,30 +63,77 @@ If you must go to work, for example if something will catch fire or mice will di
 
 ## Prepare your computers
 
-### install and test VPN and remote desktop
+### Install and test VPN and remote desktop
 
 [UoE VPN](https://www.ed.ac.uk/information-services/computing/desktop-personal/vpn)
 
 [UoE remote desktop](https://www.ed.ac.uk/information-services/computing/desktop-personal/off-site-working/remote-desktop)
 
-### put all the data you need somewhere sensible
+### Put all the data you need somewhere sensible
 
 For us that means UoE datastore, which is backed up to tape.
 
-### install any other software you might need
+### Install any other software you might need
+
+### 
 
 # You can be plenty productive during the epidemic
 
-Everyone, in my lab at least, has some written or computational work that will move their project and their career forward. Even the most dedicated experimentalist has data to analyse, papers to read, etc. Perhaps something you have been putting off for months. What a wonderful opportunity to focus on that instead, without guilt! So ask yourself:
+Everyone, in my lab at least, has some written or computational work that will move their project and their career forward. Even the most dedicated experimentalist has data to analyse, papers to read, etc. Perhaps something you have been putting off doing. What a wonderful opportunity to focus on that instead, without guilt! So ask yourself, and then discuss:
 
 ## What data analysis do I need to do?
 
+* That qPCR experiment from December that we never quite cleared up?
+* Re-analysing that sequencing dataset with different software?
+* Turning that half-informative figure into a really good clear figure?
+* Comparing the data from last month's journal club paper with my data?
+
+## What do I need to plan
+
+* That fiendishly complicated multi-sample experiment?
+* The new cloning strategy?
+* The critical path for the series of mutants I need to make?
+
 ## What do I need to learn?
+
+Edward will be delighted to discuss and to recommend resources.
+
+### Skills
+
+* Design of Experiments?
+* Statistics, regression modeling, Bayesian analysis?
+* Data visualisation, e.g. ggplot?
+* Project management?
+* RNA-seq data processing?
+* etc., etc.
+
+### Knowledge
+
+* Evolutionary history of my organism?
+* Recent work on the protein/process I'm working on?
+* Classic work from the '80s relevant to my project?
+* How motif-finding algorithms work?
+* Literature in a different species related to my project?
+* Background on how our tools work (fluorescent proteins, silica columns for RNA extraction, microscopes, chemistry of crosslinking, ...)
+* etc., etc.
 
 ## What do I need to write?
 
+* The section of results covering my last 3 months' work?
+* An even better experimental protocol on protocols.io
+* The methods section of the paper
+* Your next grant or fellowship application?
+* The paper my PI has been asking me to write for a month?
+* A review paper, which will double as the introductory chapter of your thesis?
+
 ## What should I prioritise?
+
+* Where do I want my project to be in 6 months time?
+* What do I need to complete my next paper?
+* What is the most important thing I don't understand?
+* What could unblock my project?
+* What will I get the biggest sense of accomplishment from?
 
 # Help improve this page!
 
-Please make suggestions and comments the [github issue for this page](https://github.com/ewallace/ewallace.github.io/issues/14).
+Please make suggestions and comments on the [github issue for this page](https://github.com/ewallace/ewallace.github.io/issues/14).
