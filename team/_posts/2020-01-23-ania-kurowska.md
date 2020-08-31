@@ -10,9 +10,10 @@ github: AnnaKurowska
 ORCID: 
 scholar: 
 image: /assets/images/team/ania-kurowska.jpg
-alum: false
+alum: true
 ---
 
-Ania is doing her BSc Biotechnology honours project in the lab in 2020.
+Ania did her BSc Biotechnology honours project in the lab in 2020.
+She worked on quantifying translation in transcript leaders, with the [riboviz project](https://github.com/riboviz/riboviz).
 
-
+ania is now studying for a Masters' program in Paris.
