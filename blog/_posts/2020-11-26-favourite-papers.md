@@ -31,4 +31,4 @@ Some of my lovely Chicago colleagues wrote a perspective on this work - [Heat Sh
 
 *Sophie Winterbourne:*
 
-["A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life"](https://www-nature-com.ezproxy.is.ed.ac.uk/articles/nbt.4229) discussed the possibilities and challenges of moving away from a culture-dependent method of officially naming bacteria to one fully based on their genomic sequences. This paper is one of the more intriguing papers I read recently for an essay. 
+["A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life"](https://www-nature-com.ezproxy.is.ed.ac.uk/articles/nbt.4229) discussed the possibilities and challenges of moving away from a culture-dependent method of officially naming bacteria to one fully based on their genomic sequences. This paper is one of the more intriguing papers I recently read for an essay. 
