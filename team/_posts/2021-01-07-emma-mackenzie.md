@@ -9,7 +9,7 @@ twitter:
 github: 3mma-mack
 ORCID:
 scholar:
-image: /assets/images/team/default-member.png
+image: /assets/images/team/emma-mackenzie.jpg
 alum: FALSE
 ---
 
