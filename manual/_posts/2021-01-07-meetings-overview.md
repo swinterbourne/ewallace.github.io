@@ -41,7 +41,7 @@ Whatever the format, the goal of lab meeting is for everyone in the room, includ
 
 ## Timing - *updated January 2021*
 
-Lab meetings are *15:30-17:00 Mondays* over zoom; see calendar invite for the zoom link.
+Lab meetings are **15:30-17:00 Mondays** over zoom; see calendar invite for the zoom link.
 
 We have historically tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half.
 So our new approach is:
@@ -115,7 +115,7 @@ Suggested subgroups (January 2021) are:
 * Fungal pathogens - Laura, Liz, Rachael, also Thom.
 * Ssd1 and so on - Rosey, Marah, Louis, also Paddy.
 * 3'UTRs - Sam, Weronika, also Aphena.
-* Ribosome profiling has a separate meeting, see [bbsrc-bsf repo](https://github.com/riboviz/bbsrc-nsf)
+* Ribosome profiling has a separate meeting, see [bbsrc-nsf repository](https://github.com/riboviz/bbsrc-nsf).
 
 We will find times for these that work for all subgroup members, respecting lab shift patterns.
 
@@ -135,7 +135,7 @@ These guidelines are intended to be "as simple as possible" to make these meetin
 
 Why bother with these guidelines and with writing notes?
 
-* Guidelines are a "checklist" to make sure we cover the important points.
+* Guidelines are a [checklist](http://atulgawande.com/book/the-checklist-manifesto/) to make sure we cover the important points.
 * Notes act as a "diary" of what we did, which makes it easier.
 * It's pretty easy to misunderstand each other, especially on zoom. Written notes help to clear up those misunderstandings, and especially to clarify what is and is not a priority.
 
@@ -150,3 +150,4 @@ Guidelines:
 * Be inclusive. 
 
 We also have a regular lab coffee 10:30am Fridays.
+Zoom link is on the lab calendar.
