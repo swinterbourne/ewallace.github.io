@@ -4,7 +4,7 @@ title: "Jamie Auxillos"
 position: Research assistant
 nickname: Jamie
 handle: 
-email: jamie.auxillos@ed.ac.uk
+email: jamie.auxillos@bio.ku.dk
 twitter: jamieauxillos
 github: j-aux
 ORCID: 0000-0002-9854-3235
