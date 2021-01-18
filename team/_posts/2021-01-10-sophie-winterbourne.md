@@ -9,7 +9,7 @@ twitter:
 github: 
 ORCID: 
 scholar: 
-image: /assets/images/team/default-member.png
+image: /assets/images/team/2021-01-18-sophie-winterbourne-pic.jpg
 alum: true
 ---
 
