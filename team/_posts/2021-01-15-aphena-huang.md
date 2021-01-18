@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Aphena Huang"
-position: 4th year undergraduate student
+position: Undergraduate
 nickname: Aphena
 handle:
 email: s1764254@sms.ed.ac.uk

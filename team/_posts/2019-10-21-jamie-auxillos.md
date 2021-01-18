@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Jamie Auxillos"
-position: Research assistant
+position: PDRA
 nickname: Jamie
 handle: 
 email: jamie.auxillos@bio.ku.dk
