@@ -15,7 +15,7 @@ Also see Issues on [the github page](https://github.com/ewallace/ewallace.github
 
 ## How to add content
 
-1. Fork the repository to your own github account using the "fork" button on [the site](https://github.com/ewallace/ewallace.github.io). 
+1. Fork the repository to your own github account using the "fork" button on [the site](https://github.com/ewallace/ewallace.github.io). If you previously created a fork, be sure to synchronize your fork with the main repository first. Instructions at  [How To Ensure Your GitHub Fork Is Up To Date](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/update-github-repositories-with-changes-by-others/) explain how to do that from the command line or the github website.
 2. Clone your fork to your local computer (`git clone`)
 3. Create a new feature branch (`git branch feature-name`) and check it out (`git checkout feature-name`)
 4. Make your edits in a new feature branch, for example
